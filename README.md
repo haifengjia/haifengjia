@@ -11,4 +11,5 @@ What I am working on these days:
 ![](https://github-readme-stats.vercel.app/api?username=MountBro&theme=radical) 
 
 ## Worktime breakdown
-<!-- ![](https://github-readme-stats.vercel.app/api/wakatime?username=MountBro&layout=compact&range=last_7_days) -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
