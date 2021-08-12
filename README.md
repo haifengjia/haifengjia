@@ -25,6 +25,6 @@
 ## Worktime breakdown
 <!--START_SECTION:waka-->
 ```text
-C++        16 mins         ████████████████████████▒   97.00 % 
+C++        1 hr 9 mins     ████████████████████████▓   99.25 % 
 ```
 <!--END_SECTION:waka-->
