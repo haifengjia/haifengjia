@@ -25,6 +25,6 @@
 ## Worktime breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C++        16 mins         ████████████████████████▒   97.00 % 
 ```
 <!--END_SECTION:waka-->
