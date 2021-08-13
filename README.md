@@ -16,11 +16,24 @@
 
 
 ## Github Status
-![](https://github-readme-stats.vercel.app/api?username=MountBro&theme=monokai) 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MountBro&hide=javascript&layout=compact&theme=monokai)
+<p align="center">
+ Visitor count<br>
+ <img src="https://profile-counter.glitch.me/MountBro/count.svg" />
+</p>
 
-[![MountBro's github stats](https://github-readme-stats.vercel.app/api/pin/?username=MountBro&repo=myLeetCode&theme=monokai)](https://github.com/MountBro/myLeetCode)
-[![MountBro's github stats](https://github-readme-stats.vercel.app/api/pin/?username=MountBro&repo=Age-of-Plague&theme=monokai)](https://github.com/MountBro/Age-of-Plague)
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=MountBro&theme=monokai"><br>
+ <a href="https://github.com/MountBro/myLeetCode">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MountBro&repo=myLeetCode&theme=monokai">
+ </a>
+ <a href="https://github.com/MountBro/Age-of-Plague">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MountBro&repo=Age-of-Plague&theme=monokai">
+ </a>
+</p>
+
+<p align="center">
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=MountBro&theme=monokai" align="center" />
+</p>
 
 ## Worktime breakdown
 <!--START_SECTION:waka-->
@@ -29,7 +42,3 @@ C++        3 hrs 39 mins   █████████████████�
 Markdown   15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 ```
 <!--END_SECTION:waka-->
-
-## Streak Status
-
-<img src="http://github-readme-streak-stats.herokuapp.com?user=MountBro&theme=monokai" align="center" />
