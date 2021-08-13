@@ -12,6 +12,7 @@
  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 
 <h3>What I am interested in:</h3>
+
 - CS  ->  OS and Computer Organization
 - DS 
 
@@ -20,7 +21,7 @@ Github Status
 </h1>
 
 <p align="center">
- Visitor count<br>
+ <b>Visitor count</b> <br>
  <img src="https://profile-counter.glitch.me/MountBro/count.svg" />
 </p>
 
