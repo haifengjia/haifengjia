@@ -16,11 +16,11 @@
 
 
 ## Github Status
-![](https://github-readme-stats.vercel.app/api?username=MountBro&theme=buefy) 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MountBro&hide=javascript&layout=compact&theme=buefy)
+![](https://github-readme-stats.vercel.app/api?username=MountBro&theme=monokai) 
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MountBro&hide=javascript&layout=compact&theme=monokai)
 
-[![MountBro's github stats](https://github-readme-stats.vercel.app/api/pin/?username=MountBro&repo=myLeetCode&theme=buefy)](https://github.com/MountBro/myLeetCode)
-[![MountBro's github stats](https://github-readme-stats.vercel.app/api/pin/?username=MountBro&repo=Age-of-Plague&theme=buefy)](https://github.com/MountBro/Age-of-Plague)
+[![MountBro's github stats](https://github-readme-stats.vercel.app/api/pin/?username=MountBro&repo=myLeetCode&theme=monokai)](https://github.com/MountBro/myLeetCode)
+[![MountBro's github stats](https://github-readme-stats.vercel.app/api/pin/?username=MountBro&repo=Age-of-Plague&theme=monokai)](https://github.com/MountBro/Age-of-Plague)
 
 ## Worktime breakdown
 <!--START_SECTION:waka-->
