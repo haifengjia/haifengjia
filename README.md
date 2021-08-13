@@ -15,7 +15,7 @@
 - CS  ->  OS and Computer Organization
 - DS 
 
-<h1 align="center">
+<h2 align="center">
 Github Status 
 </h1>
 
@@ -40,7 +40,7 @@ Github Status
 
 <br>
 
-<h1 align="center">
+<h2 align="center">
 Worktime breakdown
 </h1>
 
