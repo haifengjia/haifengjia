@@ -29,3 +29,7 @@ C++        3 hrs 39 mins   █████████████████�
 Markdown   15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 ```
 <!--END_SECTION:waka-->
+
+## Streak Status
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=MountBro&theme=monokai" align="center" />
