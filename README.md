@@ -43,7 +43,7 @@ Github Status
 <br>
 
 <h2 align="center">
-Worktime breakdown
+Weekly worktime breakdown
 </h1>
 
 
