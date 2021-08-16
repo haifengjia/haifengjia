@@ -22,11 +22,6 @@ Github Status
 </h1>
 
 <p align="center">
- <b>Visitor count</b> <br>
- <img src="https://profile-counter.glitch.me/MountBro/count.svg" />
-</p>
-
-<p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=MountBro&theme=monokai"><br>
  <a href="https://github.com/MountBro/myLeetCode">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MountBro&repo=myLeetCode&theme=monokai">
