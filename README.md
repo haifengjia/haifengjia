@@ -44,7 +44,8 @@ Weekly worktime breakdown
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C++     7 mins          ████████████████████▓░░░░   82.24 % 
+Other   1 min           ████▒░░░░░░░░░░░░░░░░░░░░   17.76 % 
 ```
 <!--END_SECTION:waka-->
 
