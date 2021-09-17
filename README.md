@@ -44,9 +44,10 @@ Weekly worktime breakdown
 
 <!--START_SECTION:waka-->
 ```text
-TeX      2 hrs 56 mins   ██████████████░░░░░░░░░░░   56.60 % 
-Python   1 hr 43 mins    ████████▒░░░░░░░░░░░░░░░░   33.26 % 
-Bash     31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+TeX      7 hrs 33 mins   ██████████████████▓░░░░░░   74.33 % 
+Python   1 hr 43 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Bash     49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+OCaml    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 ```
 <!--END_SECTION:waka-->
 
