@@ -44,11 +44,11 @@ Weekly worktime breakdown
 
 <!--START_SECTION:waka-->
 ```text
-C            14 hrs 18 mins  ████████▓░░░░░░░░░░░░░░░░   35.31 % 
-TeX          11 hrs 25 mins  ███████░░░░░░░░░░░░░░░░░░   28.19 % 
-C++          5 hrs 51 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-TypeScript   3 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-Makefile     1 hr 55 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+C            12 hrs 23 mins  ████████▓░░░░░░░░░░░░░░░░   34.78 % 
+TeX          9 hrs 20 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.26 % 
+C++          6 hrs 28 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.17 % 
+TypeScript   2 hrs 32 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Makefile     1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 ```
 <!--END_SECTION:waka-->
 
