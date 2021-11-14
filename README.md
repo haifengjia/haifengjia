@@ -44,11 +44,11 @@ Weekly worktime breakdown
 
 <!--START_SECTION:waka-->
 ```text
-OCaml        8 hrs 7 mins    ████████▒░░░░░░░░░░░░░░░░   33.29 % 
-C++          7 hrs 5 mins    ███████▒░░░░░░░░░░░░░░░░░   29.05 % 
-TypeScript   5 hrs 8 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.04 % 
-Python       1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-Markdown     52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+OCaml        8 hrs 15 mins   ███████░░░░░░░░░░░░░░░░░░   27.85 % 
+C++          7 hrs 17 mins   ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+TypeScript   5 hrs 8 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.32 % 
+TeX          4 hrs 36 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Python       1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 ```
 <!--END_SECTION:waka-->
 
