@@ -44,11 +44,11 @@ Weekly worktime breakdown
 
 <!--START_SECTION:waka-->
 ```text
-TeX          11 hrs 29 mins  ████████████▒░░░░░░░░░░░░   48.94 % 
-OCaml        6 hrs 51 mins   ███████▒░░░░░░░░░░░░░░░░░   29.19 % 
-C            2 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-Markdown     1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-TypeScript   37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+TeX          11 hrs 29 mins  ███████████▓░░░░░░░░░░░░░   47.26 % 
+OCaml        6 hrs 51 mins   ███████░░░░░░░░░░░░░░░░░░   28.18 % 
+C            2 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+TypeScript   1 hr 42 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Markdown     1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 ```
 <!--END_SECTION:waka-->
 
