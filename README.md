@@ -6,14 +6,24 @@
  contact me through email if possible: <a href="mailto:181716254@qq.com"><img src="https://img.shields.io/badge/-181716254@qq.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu"></a>
 </div>
 
-<h3 align="center">What I am working on these days:</h3>
+<h2 align="center">What I am working on these days</h2>
+<h3 align="center">Full Stack development</h3>
 <div align="center">
  
- ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
- ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+ <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
+ <br />
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+ <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+ </div>
+ <h3 align="center">Data Structures & Algorithms</h3>
+<div align="center">
+ <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+ <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+ <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
 <br>
 
