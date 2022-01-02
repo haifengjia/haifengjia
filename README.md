@@ -54,8 +54,9 @@ Weekly worktime breakdown
 
 <!--START_SECTION:waka-->
 ```text
-TeX            1 hr 52 mins    ████████████████████████▓   98.69 % 
-Bash           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+TeX            1 hr 51 mins    ███████████████████████▒░   93.97 % 
+JavaScript     5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Bash           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 <!--END_SECTION:waka-->
 
