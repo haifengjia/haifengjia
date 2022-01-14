@@ -54,8 +54,9 @@ Weekly worktime breakdown
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     17 mins         ██████████████████▒░░░░░░   72.71 % 
-JavaScript   6 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.29 % 
+JavaScript   1 hr 19 mins    █████████████████▒░░░░░░░   69.81 % 
+Markdown     18 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+HTML         15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 % 
 ```
 <!--END_SECTION:waka-->
 
