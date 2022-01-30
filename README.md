@@ -54,11 +54,10 @@ Weekly worktime breakdown
 
 <!--START_SECTION:waka-->
 ```text
-Python           3 hrs 20 mins   ███████████████████████▓░   95.22 % 
-GitIgnore file   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Python           3 hrs 23 mins   ████████████████████████░   95.97 % 
+GitIgnore file   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 Text             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 Git Config       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-JavaScript       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 ```
 <!--END_SECTION:waka-->
 
