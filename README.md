@@ -54,7 +54,11 @@ Weekly worktime breakdown
 
 <!--START_SECTION:waka-->
 ```text
-C   2 mins          █████████████████████████   100.00 % 
+Java       1 hr 49 mins    ████████████████████▓░░░░   82.51 % 
+Markdown   10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Groovy     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+C          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Python     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 ```
 <!--END_SECTION:waka-->
 
