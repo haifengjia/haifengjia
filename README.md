@@ -49,12 +49,9 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```text
-C                  5 hrs 22 mins   █████████████░░░░░░░░░░░░   52.66 %
-Java               3 hrs 48 mins   █████████▒░░░░░░░░░░░░░░░   37.22 %
-JSON               30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-Bash               13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-reStructuredText   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-Devicetree         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+C                  7 hrs 50 mins   ██████████████░░░░░░░░░░░   56.18 %
+Java               2 hrs 51 mins   █████░░░░░░░░░░░░░░░░░░░░   20.48 %
+Other              2 hrs 13 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
 ```
 
 <!--END_SECTION:waka-->
