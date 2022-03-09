@@ -49,9 +49,8 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```text
-C                  6 hrs 50 mins   █████████████░░░░░░░░░░░░   52.34 %
-Java               2 hrs 51 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
-Other              2 hrs 13 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
+C                  7 hrs           ██████████████▒░░░░░░░░░░   57.53 %
+Other              2 hrs 13 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.23 %
 ```
 
 <!--END_SECTION:waka-->
