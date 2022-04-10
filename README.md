@@ -49,7 +49,8 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```text
-Java   0 secs          █████████████████████████   100.00 %
+Python   5 mins          ██████████████████████▒░░   89.19 %
+Java     0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
 ```
 
 <!--END_SECTION:waka-->
