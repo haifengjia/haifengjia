@@ -49,7 +49,8 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C       0 secs          ███████████████████████░░   92.32 %
+Other   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
 ```
 
 <!--END_SECTION:waka-->
