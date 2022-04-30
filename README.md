@@ -49,8 +49,9 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```text
-C            16 mins         █████████████████████████   99.82 %
-Devicetree   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+C            54 mins         █████████████████████████   99.75 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
