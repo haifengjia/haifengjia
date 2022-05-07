@@ -49,12 +49,12 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```text
-C                  3 hrs 29 mins   ████████████████▓░░░░░░░░   66.97 %
-JSON               39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-Makefile           30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
-Objective-C        16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
-Batchfile          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-JavaScript         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+C                  3 hrs 55 mins   ██████████░░░░░░░░░░░░░░░   39.43 %
+Python             2 hrs 1 min     █████░░░░░░░░░░░░░░░░░░░░   20.32 %
+Jupyter            1 hr 17 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
+JSON               1 hr 15 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
+Makefile           47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
+Objective-C        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
 ```
 
 <!--END_SECTION:waka-->
