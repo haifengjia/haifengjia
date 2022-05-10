@@ -2,10 +2,10 @@
 
 <div >
  <ul>
- <li> 🏫 Right now an Electrical and Computer Engineering (ECE) undergrad <a href="https://www.ji.sjtu.edu.cn/">@UM-SJTU JI</a> <br> 
- <li> 💻 Researching in Networking and Communication<br>
- <li> :speech_balloon: Contact me through email if possible: <a href="mailto:181716254@qq.com"><img src="https://img.shields.io/badge/-181716254@qq.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu"></a> <br>
- <li> :hammer_and_wrench: What I am working on these days: Bluetooth Low Energy ➕ Time Synchronization Protocol
+ 🏫 Right now an Electrical and Computer Engineering (ECE) undergrad <a href="https://www.ji.sjtu.edu.cn/">@UM-SJTU JI</a> <br> 
+ 💻 Researching in Networking and Communication<br>
+ :speech_balloon: Contact me through email if possible: <a href="mailto:181716254@qq.com"><img src="https://img.shields.io/badge/-181716254@qq.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu"></a> <br>
+ :hammer_and_wrench: What I am working on these days: Bluetooth Low Energy ➕ Time Synchronization Protocol
  </ul>
 </div>
 
