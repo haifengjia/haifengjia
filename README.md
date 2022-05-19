@@ -50,12 +50,11 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```text
-Python           8 hrs 9 mins    ███████████░░░░░░░░░░░░░░   43.58 %
-C                7 hrs 12 mins   █████████▓░░░░░░░░░░░░░░░   38.46 %
-Assembly         1 hr 47 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
-Jupyter          1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
-JSON             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-ca65 assembler   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+C                13 hrs 55 mins  █████████████▓░░░░░░░░░░░   54.47 %
+Python           8 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   32.31 %
+Assembly         1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+Jupyter          1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+Other            28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
