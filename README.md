@@ -50,12 +50,12 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```text
-ca65 assembler   2 hrs 44 mins   ██████████░░░░░░░░░░░░░░░   39.64 %
-Python           2 hrs 35 mins   █████████▒░░░░░░░░░░░░░░░   37.46 %
-Assembly         1 hr 30 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.76 %
-Makefile         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-C                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python           8 hrs 29 mins   ████████████████▒░░░░░░░░   65.68 %
+ca65 assembler   2 hrs 44 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.13 %
+Assembly         1 hr 30 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
+CSV              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Makefile         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
