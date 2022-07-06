@@ -50,12 +50,10 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```text
-Python             1 hr 48 mins    ██████████████▒░░░░░░░░░░   57.35 %
-reStructuredText   36 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.22 %
-C                  28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 %
-JavaScript         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-Java               4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-GitIgnore file     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+reStructuredText   36 mins         ██████████████░░░░░░░░░░░   55.92 %
+C                  28 mins         ██████████▓░░░░░░░░░░░░░░   43.31 %
+Objective-C        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Python             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
