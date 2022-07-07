@@ -50,10 +50,7 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```text
-reStructuredText   36 mins         ██████████████░░░░░░░░░░░   55.92 %
-C                  28 mins         ██████████▓░░░░░░░░░░░░░░   43.31 %
-Objective-C        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-Python             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
