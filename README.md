@@ -50,9 +50,9 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```text
-Python             27 hrs 19 mins  ███████████████████████▒░   92.71 %
-C                  42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-Other              30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Python             25 hrs 55 mins  ██████████████████████▒░░   88.80 %
+C                  1 hr 47 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+Other              30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 ```
 
 <!--END_SECTION:waka-->
