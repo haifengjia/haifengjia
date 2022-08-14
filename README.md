@@ -50,10 +50,10 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```text
-C             3 hrs 2 mins    █████████████████████▓░░░   86.72 %
-Markdown      26 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
-TeX           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+C                  8 hrs 31 mins   ████████████████████████░   96.39 %
+Objective-C        17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+TeX                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Other              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
