@@ -50,9 +50,8 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```text
-C             3 hrs           ███████████████████████▓░   94.48 %
-Objective-C   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-Other         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+C      1 hr 59 mins    █████████████████████████   99.76 %
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
