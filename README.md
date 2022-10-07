@@ -51,8 +51,8 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```text
-C                  2 hrs 2 mins    ██████████████████▓░░░░░░   75.07 %
-Other              30 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
+C                  3 hrs 32 mins   ████████████████████▒░░░░   81.60 %
+Other              30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
 ```
 
 <!--END_SECTION:waka-->
