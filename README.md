@@ -51,9 +51,11 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```text
-C         34 mins         █████████████████████▒░░░   85.95 %
-CMake     4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
-Kconfig   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+C             1 hr 46 mins    █████████████████▓░░░░░░░   70.67 %
+Objective-C   36 mins         ██████░░░░░░░░░░░░░░░░░░░   24.26 %
+CMake         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Git Config    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Kconfig       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
