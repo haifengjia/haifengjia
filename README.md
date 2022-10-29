@@ -51,10 +51,10 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```text
-C                  16 hrs 56 mins  ████████████████████████▓   98.71 %
-Git Config         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Kconfig            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-Other              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+C                  19 hrs 55 mins  ████████████████████████▓   98.46 %
+Git Config         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Kconfig            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Other              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
