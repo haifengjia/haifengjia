@@ -51,10 +51,8 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```text
-C         3 hrs 24 mins   ███████████████████████░░   92.11 %
-Kconfig   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-JSON      6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-Other     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+C         3 hrs 2 mins    █████████████████████▓░░░   86.58 %
+Other     13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
 ```
 
 <!--END_SECTION:waka-->
