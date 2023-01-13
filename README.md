@@ -51,11 +51,8 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```text
-Bash         15 mins         ████████▒░░░░░░░░░░░░░░░░   32.79 %
-Python       11 mins         ██████░░░░░░░░░░░░░░░░░░░   24.57 %
-Git Config   9 mins          █████░░░░░░░░░░░░░░░░░░░░   20.46 %
-Text         7 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
-Other        2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
+C             40 mins         ████████▒░░░░░░░░░░░░░░░░   33.32 %
+Other         37 mins         ███████▓░░░░░░░░░░░░░░░░░   30.58 %
 ```
 
 <!--END_SECTION:waka-->
