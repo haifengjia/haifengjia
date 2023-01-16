@@ -6,7 +6,7 @@
  🎓 An incoming PhD candidate student in Information and Communication Engineering <br>
 <!--  <a href="https://www.ji.sjtu.edu.cn/">@UM-SJTU JI</a>   -->
  💻 Researching in Wireless Networking and Communication<br>
-<!--  :speech_balloon: Contact me through email if possible: <a href="mailto:181716254@qq.com"><img src="https://img.shields.io/badge/-181716254@qq.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu"></a> <br> -->
+<!--  :speech_balloon: Contact me through email if possible: <a href="mailto:181716254@qq.com"><img src="https://img.shields.io/badge/-181716254@qq.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:mailto:181716254@qq.com"></a> <br> -->
  <!-- :hammer_and_wrench: Working on BLE -->
  </ul>
 </div>
@@ -16,7 +16,7 @@ Github Status
 </h1>
 
 <p >
- <img src="https://github-readme-stats.vercel.app/api?username=MountBro&theme=monokai"><br>
+ <img src="https://github-readme-stats.vercel.app/api?username=haifengjia&theme=monokai"><br>
 <!--  <a href="https://github.com/MountBro/myLeetCode">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MountBro&repo=myLeetCode&theme=monokai">
  </a>
