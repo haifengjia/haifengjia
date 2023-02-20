@@ -51,8 +51,8 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   48 mins         █████████████████████████   99.96 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Markdown   37 mins         █████████████████████████   99.98 %
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
