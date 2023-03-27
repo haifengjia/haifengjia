@@ -51,7 +51,11 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+MATLAB        2 hrs 7 mins    ███████████▒░░░░░░░░░░░░░   45.88 %
+C             1 hr 52 mins    ██████████░░░░░░░░░░░░░░░   40.23 %
+Bash          26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
+Objective-C   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+Python        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
