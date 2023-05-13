@@ -51,7 +51,11 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python     1 hr 12 mins    ████████████████░░░░░░░░░   63.73 %
+YAML       39 mins         ████████▓░░░░░░░░░░░░░░░░   34.71 %
+C          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
