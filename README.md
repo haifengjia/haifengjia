@@ -51,11 +51,7 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```text
-C             3 hrs 25 mins   ████████████████████████▒   97.46 %
-Markdown      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-Git Config    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+C   28 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
