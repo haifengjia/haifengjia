@@ -51,9 +51,8 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-C          1 hr 19 mins    ██████████████████░░░░░░░   71.39 %
-Markdown   31 mins         ███████░░░░░░░░░░░░░░░░░░   28.58 %
-Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+C          2 hrs 38 mins   █████████████████████████   99.98 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
