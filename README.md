@@ -51,11 +51,7 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-Python     1 hr 43 mins    █████████░░░░░░░░░░░░░░░░   36.22 %
-Makefile   1 hr 18 mins    ███████░░░░░░░░░░░░░░░░░░   27.67 %
-C          1 hr 10 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.84 %
-Bash       18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-Text       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
