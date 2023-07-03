@@ -51,7 +51,10 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Makefile   3 mins          ████████████████░░░░░░░░░   63.75 %
+C          1 min           ████████░░░░░░░░░░░░░░░░░   31.58 %
+Other      0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
