@@ -2,10 +2,9 @@
 
 <div >
  <ul>
- 🏫 Right now an Electrical and Computer Engineering (ECE) undergrad <br>
- 🎓 An incoming PhD candidate student in Information and Communication Engineering <br>
+ 🎓 A PhD student in Information and Communication Engineering <br>
 <!--  <a href="https://www.ji.sjtu.edu.cn/">@UM-SJTU JI</a>   -->
- 💻 Researching in Wireless Networking and Communication<br>
+ 💻 Researching in Wireless Network Measurement (BLE & 5G)<br>
 <!--  :speech_balloon: Contact me through email if possible: <a href="mailto:181716254@qq.com"><img src="https://img.shields.io/badge/-181716254@qq.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:mailto:181716254@qq.com"></a> <br> -->
  <!-- :hammer_and_wrench: Working on BLE -->
  </ul>
