@@ -50,11 +50,11 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-Python           19 hrs 10 mins  █████████████▓░░░░░░░░░░░   55.33 %
-C                8 hrs 22 mins   ██████░░░░░░░░░░░░░░░░░░░   24.15 %
-Text             2 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
-Prolog           2 hrs 29 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-Markdown         1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Python           15 hrs 1 min    ████████████▓░░░░░░░░░░░░   50.37 %
+C                8 hrs 7 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.25 %
+Text             2 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
+Prolog           2 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+Markdown         1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
 ```
 
 <!--END_SECTION:waka-->
