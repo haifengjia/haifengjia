@@ -50,11 +50,11 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-Python         4 hrs 12 mins   █████████████████▒░░░░░░░   69.55 %
-Bash           52 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
-Text           22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-GDScript3      14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-Objective-C    13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+Python         4 hrs 40 mins   ████████████████░░░░░░░░░   63.46 %
+Objective-C    53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
+Bash           46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
+Markdown       21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+Text           20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
 ```
 
 <!--END_SECTION:waka-->
