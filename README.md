@@ -50,7 +50,7 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   56 mins         █████████████████████████   100.00 %
+Objective-C   8 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
