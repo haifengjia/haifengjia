@@ -50,10 +50,9 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-Objective-C   32 mins         ███████████████▓░░░░░░░░░   63.12 %
-Python        17 mins         ████████▒░░░░░░░░░░░░░░░░   33.60 %
-Git Config    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Jupyter       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Python       12 mins         ███████████████████████▓░   94.84 %
+Git Config   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+Jupyter      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
