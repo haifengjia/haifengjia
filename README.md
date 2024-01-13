@@ -50,11 +50,11 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-Python           6 hrs 50 mins   █████████████▓░░░░░░░░░░░   54.63 %
-YAML             1 hr 59 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.89 %
-Markdown         1 hr 40 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
-MATLAB           36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-Objective-C      36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
+Python        2 hrs 54 mins   █████████░░░░░░░░░░░░░░░░   36.28 %
+Markdown      1 hr 38 mins    █████░░░░░░░░░░░░░░░░░░░░   20.55 %
+YAML          1 hr 33 mins    █████░░░░░░░░░░░░░░░░░░░░   19.46 %
+MATLAB        36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+Objective-C   36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
 ```
 
 <!--END_SECTION:waka-->
