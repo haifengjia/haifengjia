@@ -50,9 +50,8 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-MATLAB       0 secs          ██████████████████▓░░░░░░   74.87 %
-Other        0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
-Git Config   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
+MATLAB   0 secs          ████████████████████▓░░░░   82.30 %
+Other    0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
 ```
 
 <!--END_SECTION:waka-->
