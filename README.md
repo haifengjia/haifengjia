@@ -50,8 +50,10 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-MATLAB   0 secs          ████████████████████▓░░░░   82.30 %
-Other    0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
+Python     2 mins          ████████████▒░░░░░░░░░░░░   49.73 %
+Markdown   2 mins          ███████████▓░░░░░░░░░░░░░   47.14 %
+MATLAB     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
