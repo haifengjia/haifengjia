@@ -50,8 +50,9 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   2 mins          ████████████████████████░   95.62 %
-Python     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+Python     37 mins         ███████████████████████▒░   93.60 %
+Markdown   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
