@@ -17,11 +17,11 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-C                  4 hrs 58 mins   ███████████░░░░░░░░░░░░░░   44.16 %
-Makefile           2 hrs 10 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.27 %
-ObjectiveC         1 hr 38 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 %
-Bash               53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
-Python             50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
+C                7 hrs 9 mins    ███████████▒░░░░░░░░░░░░░   45.47 %
+ObjectiveC       3 hrs 23 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.54 %
+Makefile         2 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 %
+Bash             1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
+Python           52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
 ```
 
 <!--END_SECTION:waka-->
