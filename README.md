@@ -17,11 +17,11 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-Python         9 hrs 56 mins   ██████████░░░░░░░░░░░░░░░   39.52 %
-C              7 hrs 7 mins    ███████░░░░░░░░░░░░░░░░░░   28.28 %
-ObjectiveC     2 hrs 42 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
-Bash           1 hr 41 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-textmate       1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+Python         10 hrs 47 mins  █████████▓░░░░░░░░░░░░░░░   38.66 %
+C              6 hrs 31 mins   ██████░░░░░░░░░░░░░░░░░░░   23.38 %
+ObjectiveC     2 hrs 48 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+Other          2 hrs 37 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
+Bash           2 hrs 29 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
 ```
 
 <!--END_SECTION:waka-->
