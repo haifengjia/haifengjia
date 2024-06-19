@@ -17,9 +17,11 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-MATLAB        3 hrs 28 mins   █████████████████████████   99.84 %
-Markdown      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+MATLAB           3 hrs 2 mins    ████████████████████▒░░░░   81.08 %
+Python           40 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
+GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Image (svg)      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
