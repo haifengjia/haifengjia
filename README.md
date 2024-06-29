@@ -17,11 +17,11 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-Python           2 hrs 57 mins   █████████████████████▓░░░   87.05 %
-Objective-C      15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
-GitIgnore file   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-C                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Python           3 hrs 13 mins   ████████████████▒░░░░░░░░   65.52 %
+C                37 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
+ObjectiveC       37 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
+Objective-C      15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+GitIgnore file   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
 ```
 
 <!--END_SECTION:waka-->
