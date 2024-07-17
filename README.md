@@ -17,11 +17,11 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-Python           5 hrs 25 mins   ████████████████████▒░░░░   81.17 %
-Bash             33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
-YAML             23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-GitIgnore file   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
-Shell Script     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Python           3 hrs 33 mins   ████████████████████▒░░░░   80.68 %
+Bash             33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
+GitIgnore file   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+Shell Script     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
