@@ -17,11 +17,11 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-Python           4 hrs 30 mins   ████████████████░░░░░░░░░   63.46 %
-Jupyter          1 hr 43 mins    ██████░░░░░░░░░░░░░░░░░░░   24.38 %
-Bash             33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-GitIgnore file   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-Shell Script     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Python           4 hrs 30 mins   ██████████████░░░░░░░░░░░   56.04 %
+Jupyter          1 hr 43 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.53 %
+Bash             33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+MATLAB           33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
+Objective-C      23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
 ```
 
 <!--END_SECTION:waka-->
