@@ -17,11 +17,11 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-Jupyter       4 hrs 32 mins   ██████████████▒░░░░░░░░░░   57.57 %
-MATLAB        1 hr 52 mins    ██████░░░░░░░░░░░░░░░░░░░   23.72 %
-Objective-C   1 hr 16 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.27 %
-Python        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Jupyter       4 hrs 32 mins   ████████████████▒░░░░░░░░   65.37 %
+MATLAB        1 hr 19 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.99 %
+Objective-C   53 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 %
+Python        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
