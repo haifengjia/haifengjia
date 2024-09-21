@@ -17,7 +17,8 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 min           █████████████████████████   100.00 %
+Blender    16 mins         ███████████████████████▓░   94.16 %
+Markdown   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
 ```
 
 <!--END_SECTION:waka-->
