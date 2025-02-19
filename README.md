@@ -17,11 +17,11 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-Python           2 hrs 17 mins   █████████▒░░░░░░░░░░░░░░░   37.95 %
-Blender          2 hrs 17 mins   █████████▒░░░░░░░░░░░░░░░   37.95 %
-Jupyter          1 hr 9 mins     ████▓░░░░░░░░░░░░░░░░░░░░   19.13 %
-Text             17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Blender          3 hrs 21 mins   ████████████▓░░░░░░░░░░░░   51.29 %
+Python           2 hrs 17 mins   ████████▓░░░░░░░░░░░░░░░░   34.98 %
+Other            19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+Text             17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Jupyter          16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
 ```
 
 <!--END_SECTION:waka-->
