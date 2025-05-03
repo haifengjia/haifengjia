@@ -17,11 +17,11 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-Python       8 hrs 8 mins    ██████████████████████▒░░   89.05 %
-Jupyter      37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
-JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-Text         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Python       10 hrs 5 mins   ███████████████████████▓░   94.36 %
+Jupyter      13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Text         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
