@@ -17,11 +17,11 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-Python           26 hrs 6 mins   ████████████████▒░░░░░░░░   65.89 %
-Jupyter          6 hrs 14 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
-YAML             3 hrs 46 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
-CSV              1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-Text             54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+Python           24 hrs 35 mins  ████████████████▒░░░░░░░░   65.37 %
+Jupyter          5 hrs 36 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
+YAML             3 hrs 46 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
+Text             1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+CSV              1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
 ```
 
 <!--END_SECTION:waka-->
