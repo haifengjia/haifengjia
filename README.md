@@ -17,9 +17,10 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-Python    12 mins         ██████████████▒░░░░░░░░░░   57.80 %
-JSON      8 mins          ██████████░░░░░░░░░░░░░░░   40.01 %
-Blender   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Python    4 hrs 10 mins   ████████████████████████░   96.52 %
+JSON      8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+Blender   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Other     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
