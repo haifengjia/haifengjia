@@ -17,11 +17,11 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-Python          20 hrs 50 mins  █████████████████████░░░░   84.59 %
-Other           3 hrs 20 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
-textmate        9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-CSV             7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Git Config      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Python          25 hrs 40 mins  █████████████████████▓░░░   87.03 %
+Other           3 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
+textmate        9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+CSV             8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Git Config      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
