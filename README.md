@@ -17,11 +17,11 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-Python         6 hrs 40 mins   ████████████░░░░░░░░░░░░░   47.38 %
-TeX            3 hrs 32 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.19 %
-YAML           1 hr 53 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
-OpenEdge ABL   1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
-CSV            31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+Python         8 hrs 56 mins   █████████████▓░░░░░░░░░░░   54.71 %
+TeX            3 hrs 32 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.69 %
+YAML           1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
+OpenEdge ABL   1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
+CSV            57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
 ```
 
 <!--END_SECTION:waka-->
