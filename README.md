@@ -17,11 +17,11 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-Python       2 hrs 59 mins   ████████████████░░░░░░░░░   63.37 %
-MATLAB       43 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
-YAML         22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
-Git Config   21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-Blender      8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+Python            4 hrs 36 mins   ████████████░░░░░░░░░░░░░   48.50 %
+Dart              2 hrs 27 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.84 %
+YAML              54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
+MATLAB            43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+Git Config        21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
 ```
 
 <!--END_SECTION:waka-->
