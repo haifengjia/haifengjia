@@ -17,11 +17,11 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-Python       44 hrs 54 mins        ███████████████████▒░░░░░   77.19 %
-YAML         9 hrs 18 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
-TeX          1 hr 35 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-CSV          1 hr 5 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-Makefile     32 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Python       36 hrs 6 mins         ██████████████████▒░░░░░░   73.56 %
+YAML         8 hrs 43 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.76 %
+TeX          1 hr 31 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Markdown     1 hr 15 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Makefile     32 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
