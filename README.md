@@ -17,8 +17,7 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-TeX      17 mins               █████████████████████████   99.96 %
-BibTeX   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
