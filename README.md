@@ -17,11 +17,11 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-TeX           23 hrs 41 mins        ███████████████████████░░   91.95 %
-Markdown      1 hr 14 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-Python        23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Git Config    22 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-BibTeX        2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+TeX          14 hrs 58 mins        ██████████████████████▓░░   91.29 %
+Markdown     1 hr 14 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
+Git Config   7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+BibTeX       2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Python       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
