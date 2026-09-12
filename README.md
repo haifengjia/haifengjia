@@ -17,8 +17,7 @@ Weekly worktime breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     53 mins               ██████████████████████░░░   88.03 %
-Git Config   7 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
+Markdown   42 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
